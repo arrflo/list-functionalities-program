@@ -1,3 +1,4 @@
+
 mylist_ = ['9','5','7','8','3','27','16','11','13','24']
 print (f"This is the original list: ", mylist_)
 print (f"Menu \n 1 - add an element \n 2 - insert an element \n 3 - modify an element")
@@ -55,5 +56,5 @@ elif user_in == 4:
 elif user_in == 5:
     option_5 ()
 else:
-    option_6
+    option_6 ()
     
